@@ -3,12 +3,13 @@
 ## Curated list of computer science algorithms.
 
 #### Sorting 
-1. Selection Sort
-2. Bubble Sort
-3. Recursive Bubble Sort
-4. Insertion Sort
-5. Recursive Insertion Sort
-6. Merge Sort
+1. Selection Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/1.selection_sort/selectionSort.js)* ]
+2. Bubble Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/2.bubble_sort/bubbleSort.js)* ]
+3. Optimized Bubble Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/2.bubble_sort/optimizedBubbleSort.js)* ]
+3. Recursive Bubble Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/3.recursive_buble_sort/recursive_bubble_sort.js)* ]
+4. Insertion Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/4.insertion_sort/insertion_sort.js)* ]
+5. Recursive Insertion Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/5.recursive_insertion_sort/recursive_insertion_sort.js)* ]
+<!-- 6. Merge Sort
 7. Iterative Merge Sort
 8. Quick Sort
 9. Iterative Quick Sort
@@ -40,4 +41,4 @@
 35. 3-Way QuickSort (Dutch National Flag)
 36. Merge Sort for Linked Lists
 37. Merge Sort for Doubly Linked List
-38. 3-way Merge Sort
+38. 3-way Merge Sort -->
