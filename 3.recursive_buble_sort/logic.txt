@@ -1,0 +1,6 @@
+I have implemented the optimized bubble sort in recursive way. 
+The base cases 
+--> When array size is 1 return;
+--> if in any pass, there is no swap, return. 
+
+Do the pass same as in iterative approach, and call the method recursively with sub array (array without the sorted elements) 

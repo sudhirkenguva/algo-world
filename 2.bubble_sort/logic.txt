@@ -1,0 +1,20 @@
+Bubble sort or sinking sort
+===========================
+Its a simple sort, here elements will compared pair-wise and swapped if they are in out of order.
+
+To sort an array in ascending order, 
+ --> In 1st pass, 0th element will be compared with 1st element, 1st element will be compared with 2nd, and so on, at the end of 1st pass, largest element will be at the end.
+ --> In 2nd pass, 2nd largest element will be at previous to last position. and so on. 
+ --> This process will be repeated till the whole array is sorted.  
+
+
+ Normal Bubble Sort: 
+ Time complexity: 
+ Best case : O(n^2)
+ Worst case: O(n^2)
+
+
+ Optimized Bubble Sort: 
+ Time complexity: 
+ Best case: O(n)
+ Worst case: O(n^2)

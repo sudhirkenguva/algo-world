@@ -1,0 +1,8 @@
+To sort in ascending order: 
+    select the 0th index, put the smallest element of the array (0th to last index)
+    select the next index, put the smallest element of the rest of the array (1st to last index)
+    select the next index, put the smallest element of the rest of the array (2nd to last index)
+    Repeat the above steps till the whole array is covered
+
+
+Time complexity: O(n)

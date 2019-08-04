@@ -1,0 +1,5 @@
+Insertion Sort: 
+if array lenght is 1, nothing will happen.
+Pass 1 --> 2nd element is picked and placed in a sorted position between 1st and 2nd element.
+Pass 2 --> 3rd element is picked and placed in a sorted position between 1st, 2nd and 3rd element. 
+and so on, till the last element is picked and placed at proper position. 
