@@ -1,0 +1,11 @@
+Merge sort follows a divide and conquer approach.
+Its a recursive algo.
+
+Phases:
+------- 
+1. Divide the array into 2 halves. 
+2. Sort the sub arrays recursively
+3. Merge the sorted sub arrays. 
+
+Time complexity: 
+2T(n/2) + O(n) --> 2nd case of master method --> )(nlogn) [for best, worst and average case]

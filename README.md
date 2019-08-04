@@ -9,8 +9,8 @@
 3. Recursive Bubble Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/3.recursive_buble_sort/recursive_bubble_sort.js)* ]
 4. Insertion Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/4.insertion_sort/insertion_sort.js)* ]
 5. Recursive Insertion Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/5.recursive_insertion_sort/recursive_insertion_sort.js)* ]
-<!-- 6. Merge Sort
-7. Iterative Merge Sort
+6. Merge Sort [ *[JS Implementation](https://github.com/Sudhir-Kumar-K/algo-world/blob/master/6.merge_sort/merge_sort.js)* ]
+<!-- 7. Iterative Merge Sort
 8. Quick Sort
 9. Iterative Quick Sort
 10. Heap Sort
